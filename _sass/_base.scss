@@ -16,9 +16,6 @@ html {
     
   background-color: $grey-color;
   
-  background-repeat: no-repeat;
-  background-size:cover;
-  background-attachment: fixed;
     
   padding: 0;
   margin: 0;
@@ -34,6 +31,9 @@ body {
   margin: 0;
   
   background-image: url('../assets/hero.jpg');
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment: fixed;
     
   letter-spacing: 0.01em;
   line-height: 1.6;
