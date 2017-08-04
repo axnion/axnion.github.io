@@ -113,7 +113,8 @@
         }
         
         .rss-subscribe{
-            text-align: center;
+            text-align: left;
+            font-size: 2.6rem;
             margin-top: 15px;
             
             a{
@@ -137,6 +138,22 @@
     font-size: 2.6rem;
     padding-bottom: 0.5em;
     font-weight: 300;
+}
+
+.social-icons {
+    display: block;
+    text-align: center;
+}
+
+.social-icons li {
+    display: inline;
+    font-size: 2.6rem;
+    padding-bottom: 0.5em;
+    font-weight: 300;
+}
+
+.social-icons li a {
+    text-decoration: none;
 }
 
 @media (max-width: 1050px) {

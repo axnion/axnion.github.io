@@ -8,11 +8,13 @@
 # Site settings
 title: Axel Nilsson
 email: axelnilsson1994@gmail.com
-description: Software developer student studying Software Development and Operations at Linnaeus University.
+description:  Software developer student studying Software Development and Operations at Linnaeus 
+              University. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://axelnilsson.tech" # the base hostname & protocol for your site
 twitter_username: axnion  
 github_username: axnion
+linkedin_username: axel-nilsson-346035a3
 
 # Build settings
 markdown: kramdown
