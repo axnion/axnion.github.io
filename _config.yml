@@ -18,3 +18,4 @@ linkedin_username: axel-nilsson-346035a3
 
 # Build settings
 markdown: kramdown
+permalink: pretty
