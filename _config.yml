@@ -8,8 +8,9 @@
 # Site settings
 title: Axel Nilsson
 email: axelnilsson1994@gmail.com
-description:  Software developer student studying Software Development and Operations at Linnaeus 
-              University. 
+description:  Welcome! My name is Axel Nilsson. I'm a student at Linnaeus University doing my last year at the Software Development and Operations program as a remote student.
+              This website serves both as a blog to share intressting thoughts or solutions and as my CV. To read my full CV click the About button bellow.
+              
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://axelnilsson.tech" # the base hostname & protocol for your site
 twitter_username: axnion  
